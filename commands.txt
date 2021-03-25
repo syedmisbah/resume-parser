@@ -1,0 +1,2 @@
+python -m venv rp_venv
+.\rp_venv\Scripts\activate
